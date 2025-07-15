@@ -17,7 +17,7 @@ This repository contains my completed work for Task 3 of the Future Interns Cybe
 ### 📌 How to run
 
 1. Clone this repo:
-   git clone 
+   git clone https://github.com/arkapriya30/FUTURE_CS_03
    cd FUTURE_CS_03
 
 2. Create a virtual environment:
